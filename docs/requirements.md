@@ -26,17 +26,17 @@
 
 **BPMN-диаграмма процесса:**
 
-![BPMN: Бизнес процесс отправки уведомлений](diagrams/business-process-pic.png)
+![BPMN: Бизнес процесс отправки уведомлений](/diagrams/business-process-pic.png)
 
-[.bpmn-файл](diagrams/business-process.bpmn)
+[.bpmn-файл](/diagrams/business-process.bpmn)
 
 **UML-диаграмма статусов:**
 
-![uml-state-diagram](diagrams/condition-status-diagram.png)
+![uml-state-diagram](/diagrams/condition-status-diagram.png)
 
 **UML-диаграмма состояний:**
 
-![UML: статусы уведомлений](diagrams/status-diagram.png)
+![UML: статусы уведомлений](/diagrams/notification-status-diagram.png)
 
 [.html-файл](diagrams/status-diagram.html)
 
