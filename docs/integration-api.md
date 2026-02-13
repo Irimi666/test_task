@@ -4,7 +4,7 @@
 
 **1. Базовый URL стороннего сервиса**:
 ```
-https://api.delivery-service.com/v1
+https://api.delivery-service.com
 ```
 
 **2. Аутентификация**:
